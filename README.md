@@ -17,4 +17,4 @@ This project contains SQL scripts and resources for All Theories Related to Data
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/xing24xing/SQL.git
+   git clone https://github.com/Khushi Pandey8/SQL.git
